@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=JFAdministracion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ JFAdministracion\ here.\r\n\ \r\n\ @author\ (Claudia\ Gomez)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=JFAdministracion()
+comment2.params=evento
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Propiedad
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Propiedad\ here.\r\n\ \r\n\ @author\ (Claudia\ Yamile\ G\u00F3mez\ Llanez)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ propietario\ area\ habitantes
+comment1.target=Propiedad(java.lang.String,\ java.lang.String,\ java.lang.Double,\ java.lang.Integer)
+comment10.params=
+comment10.target=java.lang.Double\ calcularPagoAdministraci\u00F3n()
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=java.lang.String\ getPropietario()
+comment4.params=
+comment4.target=java.lang.Double\ getArea()
+comment5.params=
+comment5.target=java.lang.Integer\ getHabitantes()
+comment6.params=nombre
+comment6.target=void\ setNombre(java.lang.String)
+comment7.params=
+comment7.target=void\ setPropietario()
+comment8.params=
+comment8.target=void\ setArea()
+comment9.params=
+comment9.target=void\ setHabitantes()
+numComments=11
